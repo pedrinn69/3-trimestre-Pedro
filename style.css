@@ -1,0 +1,21 @@
+body{
+    color: antiquewhite;
+    background: azure;
+    text-align: center;
+
+}
+head {
+    
+}
+h1 {
+    font-size: larger;
+}
+p {
+    font-size: small;
+}
+h2 {
+    font-size: larger;
+}
+li {
+    font-size: small;
+}
